@@ -10,18 +10,17 @@ This repository contains the code for implementing CycleGAN, a deep learning mod
 - matplotlib
 
 ## Usage
-Clone the repository:
-
+1. Clone the repository:
 ```
 git clone https://github.com/your_username/repository_name.git
-Install the required dependencies:
 ```
 
+2. Install the required dependencies:
 ```
 pip install -r requirements.txt
-Run the code:
 ```
 
+3. Run the code:
 ```
 python code.py
 ```
