@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 3. Run the code:
 ```
-python code.py
+python CycleGAN_Image_Translation.py
 ```
 
 ## Command-line Arguments
