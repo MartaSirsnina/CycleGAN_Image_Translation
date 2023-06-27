@@ -12,7 +12,7 @@ This repository contains the code for implementing CycleGAN, a deep learning mod
 ## Usage
 1. Clone the repository:
 ```
-git clone https://github.com/your_username/repository_name.git
+git clone https://github.com/MartaSirsnina/CycleGAN_Image_Translation.git
 ```
 
 2. Install the required dependencies:
