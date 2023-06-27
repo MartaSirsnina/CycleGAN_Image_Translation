@@ -9,7 +9,7 @@ This repository contains the code for implementing CycleGAN, a deep learning mod
 - tqdm
 - matplotlib
 
-##Usage
+## Usage
 Clone the repository:
 
 ```
@@ -26,7 +26,7 @@ Run the code:
 python code.py
 ```
 
-##Command-line Arguments
+## Command-line Arguments
 - run_path: The path to save the output images and metrics. Default: 100.
 - num_epochs: The number of training epochs. Default: 1000.
 - batch_size: The batch size for training. Default: 32.
@@ -40,7 +40,7 @@ python code.py
 
 Note: The code supports both CPU and GPU (CUDA) execution. By default, it uses the GPU if available, otherwise falls back to CPU.
 
-##Dataset
+## Dataset
 The code expects the dataset to be organized as follows:
 
 ```
@@ -64,7 +64,7 @@ data
 ```
 The trainA and trainB folders contain the training images from domain A and domain B, respectively. The testA and testB folders contain the test images from domain A and domain B, respectively.
 
-##Results
+## Results
 During training, the code will display and save the following information:
 
 - Losses:
