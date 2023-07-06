@@ -1,6 +1,8 @@
 # CycleGAN Image Translation
 This repository contains the code for implementing CycleGAN, a deep learning model for image-to-image translation. CycleGAN can learn to translate images from one domain to another without paired training data.
 
+![Alt Text](CycleGAN_Image_Translation.jpeg)
+
 ## Prerequisites
 - Python 3.x
 - PyTorch
